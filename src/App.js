@@ -4,6 +4,8 @@ const App = () => {
   return (
     <div>
       <p> Hello World</p>
+
+      <h1> Galaxy Institue</h1>
     </div>
   );
 };
