@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GalaxyInstitute/static/css/main.e6c13ad2.css",
+    "main.js": "/GalaxyInstitute/static/js/main.ab11186f.js",
+    "index.html": "/GalaxyInstitute/index.html",
+    "main.e6c13ad2.css.map": "/GalaxyInstitute/static/css/main.e6c13ad2.css.map",
+    "main.ab11186f.js.map": "/GalaxyInstitute/static/js/main.ab11186f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ab11186f.js"
+  ]
+}
